@@ -7,3 +7,6 @@ __pycache__/
 .ipynb_checkpoints/
 data/processed/*.csv
 data/raw/*.csv"reports/figures/*.png" 
+"data/processed/*.csv" 
+"data/raw/*.csv" 
+"*.csv" 

@@ -1,24 +1,10 @@
-# Project specific
 models/
-notebooks/.ipynb_checkpoints/
+data/raw/
+data/processed/
+reports/figures/
 __pycache__/
 .env
 *.pt
 *.bin
-*.h5
-
-# Data
-data/raw/
-data/processed/
-data/external/
-
-# Reports & Figures
-reports/figures/
-reports/*.html
-
-# Notebooks checkpoints
 .ipynb_checkpoints/
-
-# OS & temp
-.DS_Store
-Thumbs.db
+*.csv

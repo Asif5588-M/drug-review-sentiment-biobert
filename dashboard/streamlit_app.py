@@ -12,7 +12,7 @@ st.set_page_config(
 # ── Model Load ─────────────────────────────────────────────
 @st.cache_resource
 def load_model():
-    MODEL = "asif-nawaz-ml/biobert_drug_sentiment"
+    MODEL = "asif-nawaz-ml/biobert_drug_sentiment"  # HuggingFace path
     tokenizer = AutoTokenizer.from_pretrained(MODEL)
     model = AutoModelForSequenceClassification.from_pretrained(MODEL)
     model.eval()

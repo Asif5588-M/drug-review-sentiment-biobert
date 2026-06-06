@@ -1,7 +1,6 @@
-streamlit==1.41.0
-transformers==4.44.0
-torch==2.3.0
-numpy==1.26.4
-tokenizers==0.19.1
-huggingface-hub==0.23.0
-safetensors==0.4.3
+streamlit
+transformers
+torch
+numpy
+tokenizers
+safetensors

@@ -1,10 +1,24 @@
+# Data
+data/raw/*.csv
+data/processed/*.csv
+
+# Models (too large for GitHub)
 models/
-data/raw/
-data/processed/
-reports/figures/
+
+# Python
 __pycache__/
+*.py[cod]
 .env
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML artifacts
 *.pt
 *.bin
-.ipynb_checkpoints/
-*.csv
+*.safetensors
+
+# OS
+.DS_Store
+Thumbs.db

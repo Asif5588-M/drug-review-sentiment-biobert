@@ -137,7 +137,7 @@ streamlit run dashboard/streamlit_app.py
 - 🏥 Medical Technician | PMAS Arid Agriculture University
 - 🎓 MPhil Economics (Health Economics)
 - 📄 Published Researcher — HEC Y-Category Journal
-- 🔗 [Upwork Profile](https://www.upwork.com/freelancers/~016fa7751e0b328410)
+- 🔗 [Upwork Profile](https://www.upwork.com/freelancers/~016fa773fe0b528410)
 - 🌐 [Pakistan CHE Dashboard](https://asifnawaz-pakistan-health.streamlit.app)
 - 🤗 [HuggingFace](https://huggingface.co/asif-nawaz-ml)
 

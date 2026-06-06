@@ -1,0 +1,15 @@
+{
+  "baseline": {
+    "model": "TF-IDF + Logistic Regression",
+    "accuracy": 80.37,
+    "f1": 0.8161
+  },
+  "biobert": {
+    "model": "BioBERT (dmis-lab/biobert-base-cased-v1.2)",
+    "accuracy": 83.2,
+    "f1": 0.8476,
+    "epochs": 3,
+    "train_samples": 59368,
+    "test_samples": 5000
+  }
+}
